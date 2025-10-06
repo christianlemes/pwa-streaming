@@ -7,8 +7,8 @@
    - Fallback offline para navegação
 ========================================================= */
 
-const CACHE_STATIC = "streamlite-static-v1";
-const CACHE_IMAGES = "streamlite-images-v1";
+const CACHE_STATIC = "streamlite-static-v2";
+const CACHE_IMAGES = "streamlite-images-v2";
 
 // Arquivos essenciais para funcionar offline
 const PRECACHE = [
